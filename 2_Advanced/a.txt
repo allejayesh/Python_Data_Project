@@ -1,0 +1,7 @@
+def projected_salary(salary):
+    return salary * 1.03
+
+
+df_salary['salary_year_inflated'] = df_salary['salary_year_avg'].apply(projected_salary) 
+
+df_salary[['salary_year_avg', 'salary_year_inflated']]   
