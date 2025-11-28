@@ -103,6 +103,9 @@ plt.show()
 
 ## 3. How well do jobs and titles pay for Data Analysts?
 
+View my notebook with detailed steps here:
+[4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)
+
 ### Salary Analysis for Data Nerds
 
 To analyze how well different data job titles pay in the US, I examined the yearly salary distributions of the top six most common roles.
@@ -182,6 +185,9 @@ Here's the breakdown of the highest-paid and most in-demand skills for data anal
 To identify which skills provide the best career advantage for aspiring Data Analysts in the US, I analyzed how different tools and technologies relate to median yearly salary and their demand across job postings.
 This visualization reveals which skills strike the strongest balance between high market demand and high earning potential.
 By comparing commonly required competencies ranging from programming languages to analytical tools, it becomes clear which skills offer the highest return on investment for job seekers aiming to maximize both salary and employability.
+
+View my notebook with detailed steps here:
+[5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)
 
 #### Visualize Data
 
